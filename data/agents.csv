@@ -1,0 +1,6 @@
+agent_id,agent_name,team,region,conversion_rate_base
+AG001,Laura,sales,Madrid,0.30
+AG002,Sergio,sales,Madrid,0.27
+AG003,Marta,sales,Madrid,0.24
+AG004,Diego,sales,Madrid,0.22
+AG005,Paula,sales,Madrid,0.19
